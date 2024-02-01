@@ -1,4 +1,4 @@
-#O programa solicita 3 valores, informa se os valores podem formar um triângulo e, se sim, o tipo desse triângulo.
+#O programa solicita 3 valores, informa se os valores podem formar um triângulo e, se sim, de qual tipo.
 
 #OBS: três lados formam um triangulo quando a soma de quaisquer dos dois lados é maior que o terceiro.
      
