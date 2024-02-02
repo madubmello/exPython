@@ -1,6 +1,6 @@
 import random
 
-print("Seja bem-vinda ao jogo! Essa é uma versão básica de Pedra, Papel e Tesoura de três rodadas!")
+print("Seja bem-vindo(a) ao jogo! Essa é uma versão básica de Pedra, Papel e Tesoura de três rodadas!")
 rodadas = 3
 pontosPlayer = 0
 pontosComputador = 0
